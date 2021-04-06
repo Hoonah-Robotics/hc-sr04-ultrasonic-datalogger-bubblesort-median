@@ -8,7 +8,7 @@ input.onButtonPressed(Button.A, function () {
         PingUnit.MicroSeconds
         )
         comment.comment("\"serial write\" is for monitoring incoming sensor data from the console.")
-        comment.comment("Don't use the 'serial write' line in working robot code")
+        comment.comment("Don't need the 'serial write' line in working robot code")
         serial.writeValue("distance(cm)", measuresArray[index])
         basic.pause(2)
     }
