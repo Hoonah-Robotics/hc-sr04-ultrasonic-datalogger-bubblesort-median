@@ -1,3 +1,5 @@
+Picture of HC-SR04 ultrasonic sensor (3v version) connected to a Micro:bit
+![wiring](https://user-images.githubusercontent.com/73606540/113648485-28fe7880-9639-11eb-9f07-0e0abeb3af5c.jpg)
 
 > Open this page at [https://hoonah-robotics.github.io/hc-sr04-ultrasonic-datalogger-bubblesort-median/](https://hoonah-robotics.github.io/hc-sr04-ultrasonic-datalogger-bubblesort-median/)
 
